@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[克比Miller Blog]]></title>
+  <link href="https://kobyle.github.io/atom.xml" rel="self"/>
+  <link href="https://kobyle.github.io/"/>
+  <updated>2016-09-05T23:39:36+08:00</updated>
+  <id>https://kobyle.github.io/</id>
+  <author>
+    <name><![CDATA[克比Miller]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[222]]></title>
+    <link href="https://kobyle.github.io/blog/2016/09/05/222/"/>
+    <updated>2016-09-05T22:35:46+08:00</updated>
+    <id>https://kobyle.github.io/blog/2016/09/05/222</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[G20开始写博客]]></title>
+    <link href="https://kobyle.github.io/blog/2016/09/05/g20kai-shi-xie-bo-ke/"/>
+    <updated>2016-09-05T21:39:27+08:00</updated>
+    <id>https://kobyle.github.io/blog/2016/09/05/g20kai-shi-xie-bo-ke</id>
+    <content type="html"><![CDATA[<p>G20期间闲来无事、脑子抽风创建博客。
+我一直是一个很“懒”的人，懒的记东西，上学时记了很多笔记，但最后都是摆设了。可能觉得记笔记才是好学生吧。哈哈。。。。
+现在呢，互联网发展太快了，看见业内比较牛的同学都有不错的博客，一个记忆留存，二是分享，感觉挺好的。
+现在就是分享、学习、交流技术，不为名、不为利。。。</p>
+]]></content>
+  </entry>
+  
+</feed>
