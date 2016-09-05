@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://kobyle.github.io/sitemap.xml 
